@@ -1,3 +1,3 @@
 # premiertest
 
-Ceci est un exeemple
+Ceci est un exemple
